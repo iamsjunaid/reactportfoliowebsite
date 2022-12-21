@@ -3,9 +3,7 @@ import './Portfolio.css'
 import IMG1 from '../../assets/crm.jpg'
 import IMG2 from '../../assets/stopwatch.png'
 import IMG3 from '../../assets/analysis.png'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG4 from '../../assets/Quickly.png'
 
 const data = [
   {
@@ -27,6 +25,13 @@ const data = [
     image: IMG3,
     title:'Analysis of users behaviour in structured ecommerce website',
     github: 'https://github.com',
+    demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboard-and-financial-visualization'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title:'Quickly News App',
+    github: 'https://github.comhttps://github.com/iamsjunaid/Quickly-News-React.git',
     demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboard-and-financial-visualization'
   },
 ]
